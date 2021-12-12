@@ -1,0 +1,10 @@
+2021-11-19T02:15:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\adibatik\wp-includes\wp-db.php pada baris 2056
+
+2021-11-19T07:27:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\adibatik\wp-content\plugins\ocean-extra\includes\widgets\custom-links.php pada baris 10
+
+2021-11-19T07:28:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\adibatik\wp-content\plugins\ocean-extra\includes\widgets\social-share.php pada baris 9
+
+2021-11-19T07:28:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\adibatik\wp-content\plugins\ocean-extra\includes\widgets\instagram.php pada baris 9
+
+2021-11-19T13:22:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\adibatik\wp-includes\Requests\Transport\cURL.php pada baris 484
+

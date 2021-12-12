@@ -1,0 +1,32 @@
+2021-12-09T04:46:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\DataStoreInterface.php pada baris 8
+
+2021-12-09T04:49:34+00:00 CRITICAL Uncaught Error: Undefined constant "WP_ENVIRONMENT_TYPE" in C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\MailchimpScheduler.php:90
+Stack trace:
+#0 C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\MailchimpScheduler.php(90): constant('WP_ENVIRONMENT_...')
+#1 C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\MailchimpScheduler.php(58): Automattic\WooCommerce\Admin\Schedulers\MailchimpScheduler->make_request('adibatikstore@g...')
+#2 C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Events.php(109): Automattic\WooCommerce\Admin\Schedulers\MailchimpScheduler->run()
+#3 C:\xampp\htdocs\adibatik\wp-includes\class-wp-hook.php(303): Automattic\WooCommerce\Admin\Events->do_wc_admin_daily()
+#4 C:\xampp\htdocs\adibatik\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\adibatik\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\adibatik\wp-cron.php(138): do_action_ref_array('wc_admin_daily', Array)
+#7 {main}
+  thrown di C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\MailchimpScheduler.php pada baris 90
+
+2021-12-09T04:49:57+00:00 CRITICAL Uncaught Error: Undefined constant "WP_ENVIRONMENT_TYPE" in C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\MailchimpScheduler.php:90
+Stack trace:
+#0 C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\MailchimpScheduler.php(90): constant('WP_ENVIRONMENT_...')
+#1 C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\MailchimpScheduler.php(58): Automattic\WooCommerce\Admin\Schedulers\MailchimpScheduler->make_request('adibatikstore@g...')
+#2 C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Events.php(109): Automattic\WooCommerce\Admin\Schedulers\MailchimpScheduler->run()
+#3 C:\xampp\htdocs\adibatik\wp-includes\class-wp-hook.php(303): Automattic\WooCommerce\Admin\Events->do_wc_admin_daily()
+#4 C:\xampp\htdocs\adibatik\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\adibatik\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\adibatik\wp-cron.php(138): do_action_ref_array('wc_admin_daily', Array)
+#7 {main}
+  thrown di C:\xampp\htdocs\adibatik\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\MailchimpScheduler.php pada baris 90
+
+2021-12-09T04:55:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\adibatik\wp-includes\wp-db.php pada baris 2056
+
+2021-12-09T15:14:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\adibatik\wp-content\plugins\smart-slider-3\Nextend\Autoloader.php pada baris 193
+
+2021-12-09T15:15:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\adibatik\wp-includes\Requests\Transport\cURL.php pada baris 165
+
